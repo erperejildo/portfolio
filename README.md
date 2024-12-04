@@ -36,6 +36,7 @@ Throughout my career, I’ve had the privilege of contributing to various compan
 ### Premier Inn
 **Technologies:** Angular, AngularJS, Sass, Docker.
 Mainteined and improved the booking flow.
+![image](https://github.com/user-attachments/assets/e636d399-0c47-4bb8-8855-eaa2958db273)
 [LINK](https://www.premierinn.com)
 
 ### The Telegraph
@@ -114,7 +115,7 @@ I regularly ask questions on StackOverflow improve my understanding and overcome
 
 ### Testing
 I frequently incorporate third-party libraries into my projects, as they can significantly enhance functionality. However, I occasionally encounter bugs or areas for improvement within these libraries. When this happens, I take the initiative to assist the developers by reporting the issues, providing feedback, and contributing to testing efforts to ensure better performance and reliability.
-[LINK1](https://github.com/flutter/flutter/issues/158830#issuecomment-2486818956) [LINK2](https://github.com/Abedalkareem/games_services/issues/129)
+[LINK1](https://github.com/flutter/flutter/issues/158830#issuecomment-2486818956) - [LINK2](https://github.com/Abedalkareem/games_services/issues/129)
 
 ### Cordova Plugin
 I contributed to the development of a Cordova package that enables seamless integration of camera functionality within mobile apps, helping enhance the user experience with smooth and reliable performance.
