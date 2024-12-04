@@ -12,21 +12,35 @@ These are projects I’ve developed independently. These apps reflect my creativ
 They are released for both Android and iOS (NOTE: iOS account is not active at the moment) and they all use Flutter/Dart and Firebase/Firestore. Some of these apps were made in the past using Angular, Ionic and PhoneGap/Cordova. Today, they are all native.
 
 #### My Rents
-
 My Rents: Property Manager Pro simplifies property management for both small and large portfolios. Easily organize and track properties, manage leases, and schedule tasks with detailed reminders. The app also provides essential tools like expense tracking, secure document storage, and automated bill generation for efficient financial management. With integrated map navigation and comprehensive reporting, managing your rental properties has never been easier.
 [LINK](https://play.google.com/store/apps/details?id=com.drodriguez.my_rents)
+
+<img src="https://github.com/user-attachments/assets/537ff3ff-6386-4a33-9c25-6e3fe32296d7" width="500">
+
 
 ### Lucra
 Your all-in-one financial companion, designed to simplify money management. Track your income, savings, and expenses in real-time, with a clear overview of your financial landscape. Customize your tracking for specific needs, from investments to subscriptions, and gain insights into your financial health effortlessly. With Lucra, managing your finances has never been easier or more efficient.
 [LINK](https://play.google.com/store/apps/details?id=com.drodriguez.profits)
 
+<img src="https://github.com/user-attachments/assets/f4721e9f-0ff8-4a33-a61e-28ad8a574e67" width="500">
+
 ### TimeTap
-Local and online multiplayer game where the goal is to stop a hidden timer at exactly 5 seconds. Compete with up to 4 players on one device or challenge global players online. The game is easy to learn but hard to master, offering addictive gameplay. Race against the clock and prove you have the perfect timing!
+Local and online multiplayer game where the goal is to stop a hidden timer at exactly 5 seconds. Compete with up to 4 players on one device or challenge global players online. The game is easy to learn but hard to master, offering addictive gameplay.
 [LINK](https://play.google.com/store/apps/details?id=com.drodriguez.time_tap)
 
+<img src="https://github.com/user-attachments/assets/044d72ce-2c36-4665-b7ab-f06399ef8408" width="500">
+
 ### Mind your Math
-It turns learning math into a fun and engaging adventure for kids. The app covers all key arithmetic operations, from addition to decimals, with a personalized learning journey that adapts to your child’s skill level. It offers goal setting, real-time progress tracking, and visually appealing exercises to keep kids motivated. Watch your child build a strong math foundation and develop problem-solving skills with ease!
+It turns learning math into a fun and engaging adventure for kids. The app covers all key arithmetic operations, from addition to decimals, with a personalized learning journey that adapts to your child’s skill level. It offers goal setting, real-time progress tracking, and visually appealing exercises to keep kids motivated.
 [LINK](https://play.google.com/store/apps/details?id=mind.your.maths)
+
+<img src="https://github.com/user-attachments/assets/f2efa3f8-8997-4d01-a39f-56f196e1d425" width="500">
+
+### Party Words
+Interactive party game for all ages, offering two exciting modes: drawing and gestures. Players form teams and take turns drawing or acting out words for their teammates to guess, without using letters or numbers. With various word sets and the ability to play with friends and family, Party Words guarantees laughter and friendly competition.
+[LINK](https://play.google.com/store/apps/details?id=drodriguez.apps.Words)
+
+<img src="https://github.com/user-attachments/assets/648e8121-eba9-488b-8161-546c30247378" width="500">
 
 
 ## 💼 Company Projects
@@ -36,7 +50,6 @@ Throughout my career, I’ve had the privilege of contributing to various compan
 ### Premier Inn
 **Technologies:** Angular, AngularJS, Sass, Docker.
 Mainteined and improved the booking flow.
-![image](https://github.com/user-attachments/assets/e636d399-0c47-4bb8-8855-eaa2958db273)
 [LINK](https://www.premierinn.com)
 
 ### The Telegraph
@@ -67,42 +80,42 @@ Created ecommerce, selling a variety of traditional Spanish sweets, with a focus
 
 ## 🧪 Small Projects & Tests
 
-As part of my continuous learning and exploration of new technologies, I’ve built several small websites and applications to demonstrate my expertise in various frameworks, libraries and methodologies. Most of them can be tested online (more info in their READMEs).
+As part of my continuous learning and exploration of new technologies, I’ve built several small websites and applications to demonstrate my expertise in various frameworks, libraries and methodologies. You can also have a look to the code here!
 
 ### Financial App
 **Technologies:** React, Redux, TypeScript, Chart.js, Sass
 Fully responsive and accessible website based on a Figma design. Integrated interactive charts to visualize data effectively while ensuring the website's layout adapts seamlessly across devices. Prioritized accessibility standards to ensure a smooth user experience for all visitors.
-[LINK](https://github.com/erperejildo/financial-dashboard)
+[LINK](https://financial-dashboard-dani.netlify.app) - [CODE](https://github.com/erperejildo/financial-dashboard)
 
 ### Characters List
 **Technologies:** React, React Routing, Redux, TypeScript, Sass
 Simple list but a demostration of sing fetch, filtering results, loading, animation, catching errors and transition pages. 
-[LINK](https://github.com/erperejildo/rick_and_morty)
+[LINK](https://rick-dani-morty.netlify.app) - [CODE](https://github.com/erperejildo/rick_and_morty)
 
 ### Movies List
 **Technologies:** Angular, Ionic, TypeScript, Sass
 Similar to previous project but using different technologies. Includes .apk to try the app on real Android devices.
-[LINK](https://github.com/erperejildo/tv-maze)
+[LINK](https://tv-maze-dani.netlify.app) - [CODE](https://github.com/erperejildo/tv-maze)
 
 ### Mortgage Calculator
 **Technologies:** Angular, TypeScript, Sass
 Simple but responsive design for a mortgage calculator.
-[LINK](https://github.com/erperejildo/mortgage-calculator)
+[LINK](https://main--dani-mortgage-calculator.netlify.app) - [CODE](https://github.com/erperejildo/mortgage-calculator)
 
 ### Weather App
 **Technologies:** React, Vite, TypeScript, Sass
 A fully responsive weather app that displays the current weather for a given location. The background dynamically changes to reflect the current weather conditions, providing a visually appealing and immersive experience.
-[LINK](https://github.com/erperejildo/weather-app)
+[LINK](https://main--weather-dani.netlify.app) - [CODE](https://github.com/erperejildo/weather-app)
 
 ### My Payslips
 **Technologies:** React, Redux, TypeScript, Ionic, Capacitor, Sass
 A simple mobile application that provides access to payslips, available for native download on mobile devices. It features smooth animations and a responsive design.
-[LINK](https://github.com/erperejildo/myPayslips)
+[LINK](https://main--weather-dani.netlify.app) - [CODE](https://github.com/erperejildo/myPayslips)
 
 ### React Nodes
 **Technologies:** React, Redux, TypeScript, Next.js Sass
 Full stack project showing different nodes in a canvas.
-[LINK](https://github.com/erperejildo/react-nodes)
+[CODE](https://github.com/erperejildo/react-nodes)
 
 
 ## 🌍 Open Source Contributions
