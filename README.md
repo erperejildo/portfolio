@@ -4,7 +4,7 @@ Hello, and welcome to my portfolio repository! I’m Dani, a passionate software
 
 
 ## 🚀 My Work
-This repository in different areas. Each section showcases different aspects of my skills and expertise.
+I've organized this section into three categories: Personal Projects (apps), Company Projects (websites), and Examples (demonstrating specific skills).
 
 ### Personal Work (Apps)
 These are projects I’ve developed independently. These apps reflect my creativity, passion for development, and desire to innovate. I'm always looking for new ideas (the most difficult part).
