@@ -122,17 +122,17 @@ Full stack project showing different nodes in a canvas.
 
 As an advocate for collaborative development and community-driven growth, I actively contribute to open-source projects. These contributions allow me to engage with the developer community, improve existing tools, and share my knowledge with others. Below are some of my contributions to open-source projects.
 
-### StackOverflow
-I regularly ask questions on StackOverflow improve my understanding and overcome challenges, but at the same time, I enjoy giving back by answering questions from other developers, providing solutions and insights based on my experience
-[LINK](https://stackoverflow.com/users/4858133/dani?tab=topactivity)
-
 ### Testing
 I frequently incorporate third-party libraries into my projects, as they can significantly enhance functionality. However, I occasionally encounter bugs or areas for improvement within these libraries. When this happens, I take the initiative to assist the developers by reporting the issues, providing feedback, and contributing to testing efforts to ensure better performance and reliability.
 [LINK1](https://github.com/flutter/flutter/issues/158830#issuecomment-2486818956) - [LINK2](https://github.com/Abedalkareem/games_services/issues/129)
 
-### Cordova Plugin
+### Code
 I contributed to the development of a Cordova package that enables seamless integration of camera functionality within mobile apps, helping enhance the user experience with smooth and reliable performance.
 [LINK](https://github.com/erperejildo/cordova-plugin-preview-camera)
+
+### Help
+I regularly ask questions on StackOverflow improve my understanding and overcome challenges, but at the same time, I enjoy giving back by answering questions from other developers, providing solutions and insights based on my experience
+[LINK](https://stackoverflow.com/users/4858133/dani?tab=topactivity)
 
 
 ## 📄 My Professional Journey
