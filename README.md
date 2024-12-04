@@ -3,7 +3,7 @@
 Hello, and welcome to my portfolio repository! I’m Dani, a passionate software developer with over 14 years of experience in mobile and web development. Over the years, I've had the opportunity to work on a wide range of exciting projects, leveraging modern technologies to build seamless, user-centric applications. This repository is a collection of my work, where you can explore some of the projects I’ve contributed to, as well as a few of the technologies I’ve used along the way.
 
 
-## 🚀 My Work
+## 🚀 Personal Projects
 I've organized this section into three categories: Personal Projects (apps), Company Projects (websites), and Examples (demonstrating specific skills).
 
 ### Personal Work (Apps)
