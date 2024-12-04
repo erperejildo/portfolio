@@ -78,7 +78,7 @@ Created ecommerce, selling a variety of traditional Spanish sweets, with a focus
 [LINK](https://www.elpatriarca.com)
 
 
-## 🧪 Small Projects & Tests
+## 🧪 Examples
 
 As part of my continuous learning and exploration of new technologies, I’ve built several small websites and applications to demonstrate my expertise in various frameworks, libraries and methodologies. You can also have a look to the code here!
 
