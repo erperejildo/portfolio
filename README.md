@@ -3,10 +3,10 @@
 Hello, and welcome to my portfolio repository! I’m Dani, a passionate software developer with over 14 years of experience in mobile and web development. Over the years, I've had the opportunity to work on a wide range of exciting projects, leveraging modern technologies to build seamless, user-centric applications. This repository is a collection of my work, where you can explore some of the projects I’ve contributed to, as well as a few of the technologies I’ve used along the way.
 
 
-## 🚀 Personal Projects
-I've organized this section into three categories: Personal Projects (apps), Company Projects (websites), and Examples (demonstrating specific skills).
+## 🚀 My Work
+I've organized this section into three categories: Personal Projects (apps), Company Projects (websites), Examples (demonstrating specific skills) and Open Source Contributions.
 
-### Personal Work (Apps)
+### 📱 Personal Work (Apps)
 These are projects I’ve developed independently. These apps reflect my creativity, passion for development, and desire to innovate. I'm always looking for new ideas (the most difficult part).
 
 They are released for both Android and iOS (NOTE: iOS account is not active at the moment) and they all use Flutter/Dart and Firebase/Firestore. Some of these apps were made in the past using Angular, Ionic and PhoneGap/Cordova. Today, they are all native.
