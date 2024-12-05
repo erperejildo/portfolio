@@ -1,12 +1,12 @@
 # Welcome to My Portfolio
 
-Hello, and welcome to my portfolio repository! I’m Dani, a passionate software developer with over 14 years of experience in mobile and web development. Over the years, I've had the opportunity to work on a wide range of exciting projects, leveraging modern technologies to build seamless, user-centric applications. This repository is a collection of my work, where you can explore some of the projects I’ve contributed to, as well as a few of the technologies I’ve used along the way.
+Hello, and welcome to my portfolio repository! I’m Daniel, a passionate software developer with over 14 years of experience in mobile and web development. Over the years, I've had the opportunity to work on a wide range of exciting projects, leveraging modern technologies to build seamless, user-centric applications. This repository is a collection of my work, where you can explore some of the projects I’ve contributed to, as well as a few of the technologies I’ve used along the way.
 
 
 ## 🚀 My Work
 I've organized this section into three categories: Personal Projects (apps), Company Projects (websites), Examples (demonstrating specific skills) and Open Source Contributions.
 
-### 📱 Personal Work (Apps)
+### 📱 Personal Projects (Apps)
 These are projects I’ve developed independently. These apps reflect my creativity, passion for development, and desire to innovate. I'm always looking for new ideas (the most difficult part).
 
 They are released for both Android and iOS (NOTE: iOS account is not active at the moment) and they all use Flutter/Dart and Firebase/Firestore. Some of these apps were made in the past using Angular, Ionic and PhoneGap/Cordova. Today, they are all native.
@@ -139,7 +139,7 @@ I regularly ask questions on StackOverflow improve my understanding and overcome
 You can learn more about my career, skills, and experience by visiting the following links:
 
 - [My CV](https://docs.google.com/document/d/1DrqobsRgiosTduWnGF9OLhC2TFsRpVO5Yc1YBz5Myuo/edit?tab=t.0) (link to the long version inside)
-- [LinkedIn Profile](https://www.linkedin.com/in/daniel-rodr%C3%ADguez-ram%C3%ADrez-6373a391/)
+- [LinkedIn Profile](https://www.linkedin.com/in/daniel-rodr%C3%ADguez-ram%C3%ADrez-6373a391/) (check this for more projects)
 - [Github](https://github.com/erperejildo)
 - [StackOverflow Profile](https://stackoverflow.com/users/4858133/dani)
 
