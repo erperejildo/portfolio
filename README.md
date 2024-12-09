@@ -12,7 +12,7 @@ These are projects I’ve developed independently. These apps reflect my creativ
 They are released for both Android and iOS (NOTE: iOS account is not active at the moment) and they all use Flutter/Dart and Firebase/Firestore. Some of these apps were made in the past using Angular, Ionic and PhoneGap/Cordova. Today, they are all native.
 
 #### My Rents
-My Rents: Property Manager Pro simplifies property management for both small and large portfolios. Easily organize and track properties, manage leases, and schedule tasks with detailed reminders. The app also provides essential tools like expense tracking, secure document storage, and automated bill generation for efficient financial management. With integrated map navigation and comprehensive reporting, managing your rental properties has never been easier.
+This is property manager app that simplifies your work for both small and large portfolios. Easily organize and track properties, manage leases, and schedule tasks with detailed reminders. The app also provides essential tools like expense tracking, secure document storage, and automated bill generation for efficient financial management. With integrated map navigation and comprehensive reporting, managing your rental properties has never been easier.
 [LINK](https://play.google.com/store/apps/details?id=com.drodriguez.my_rents)
 
 <img src="https://github.com/user-attachments/assets/537ff3ff-6386-4a33-9c25-6e3fe32296d7" width="500">
