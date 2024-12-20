@@ -11,6 +11,12 @@ These are projects I’ve developed independently. These apps reflect my creativ
 
 They are released for both Android and iOS (NOTE: iOS account is not active at the moment) and they all use Flutter/Dart and Firebase/Firestore. Some of these apps were made in the past using Angular, Ionic and PhoneGap/Cordova. Today, they are all native.
 
+#### My Holdings
+A portfolio to manage your investments and see their market values in real time. You can also create home screen widgets to easily keep an eye on your investments without having to open the app.
+[LINK](https://play.google.com/store/apps/details?id=com.drodriguez.my_holdings)
+
+<img src="https://github.com/user-attachments/assets/40e059c0-dcca-4836-a900-8b7818f347b3" width="500">
+
 #### My Rents
 This is property manager app that simplifies your work for both small and large portfolios. Easily organize and track properties, manage leases, and schedule tasks with detailed reminders. The app also provides essential tools like expense tracking, secure document storage, and automated bill generation for efficient financial management. With integrated map navigation and comprehensive reporting, managing your rental properties has never been easier.
 [LINK](https://play.google.com/store/apps/details?id=com.drodriguez.my_rents)
