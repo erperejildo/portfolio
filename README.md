@@ -1,6 +1,6 @@
 # Welcome to My Portfolio
 
-Hello, and welcome to my portfolio repository! I’m Daniel, a passionate software developer with over 14 years of experience in mobile and web development. Over the years, I've had the opportunity to work on a wide range of exciting projects, leveraging modern technologies to build seamless, user-centric applications. This repository is a collection of my work, where you can explore some of the projects I’ve contributed to, as well as a few of the technologies I’ve used along the way.
+Hello, and welcome to my portfolio repository! I’m Daniel, a passionate software developer with over 15 years of experience in mobile and web development. Over the years, I've had the opportunity to work on a wide range of exciting projects, leveraging modern technologies to build seamless, user-centric applications. This repository is a collection of my work, where you can explore some of the projects I’ve contributed to, as well as a few of the technologies I’ve used along the way.
 
 
 ## 🚀 My Work
